@@ -2,7 +2,7 @@
 	<info>
 		<id>1</id>
 		<name>John Doe</name>
-		<address>H#38, R#3, Bannani, Dhaka</address>
+		<address><house>H#38</house><road> R#3</road> <area>Bannani</area> <city>Dhaka</city></address>
 		<dept>Sales</dept>
 		<sal>$20000</sal>
 	</info>
@@ -10,7 +10,7 @@
 	<info>
 		<id>2</id>
 		<name>Mark Robot</name>
-		<address>Flat#A/1, H#20, R#18, Mirpur,Dhaka</address>
+		<address><flat>Flat#A/1</flat> <house> H#20</house><road> R#18</road><area> Mirpur</area><city>Dhaka</city></address>
 		<dept>Accounts</dept>
 		<sal>$12000</sal>
 	</info>
@@ -18,7 +18,7 @@
 	<info>
 		<id>3</id>
 		<name>Ala Voski</name>
-		<address>H#38, R#3, Motijheel</address>
+		<address><house>H#38</house> <road>R#3</road> <area>Motijheel</area></address>
 		<dept>Human Resource</dept>
 		<sal>$30000</sal>
 	</info>
