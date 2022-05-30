@@ -1,0 +1,25 @@
+<infos>
+	<info>
+		<id>1</id>
+		<name>John Doe</name>
+		<address>H#38, R#3, Bannani, Dhaka</address>
+		<dept>Sales</dept>
+		<sal>$20000</sal>
+	</info>
+	
+	<info>
+		<id>2</id>
+		<name>Mark Robot</name>
+		<address>Flat#A/1, H#20, R#18, Mirpur,Dhaka</address>
+		<dept>Accounts</dept>
+		<sal>$12000</sal>
+	</info>
+
+	<info>
+		<id>3</id>
+		<name>Ala Voski</name>
+		<address>H#38, R#3, Motijheel</address>
+		<dept>Human Resource</dept>
+		<sal>$30000</sal>
+	</info>
+</infos>
